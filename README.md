@@ -1,2 +1,3 @@
-# nova-travel-planner-uems
-A travel planning application for modern development workflows
+# Nova Travel Planner Uems
+
+A travel planning application for modern development workflows.
